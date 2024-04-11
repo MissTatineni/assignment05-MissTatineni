@@ -13,6 +13,7 @@
 		442909C22BC7734800A6F3CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 442909C02BC7734800A6F3CB /* Main.storyboard */; };
 		442909C42BC7734A00A6F3CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 442909C32BC7734A00A6F3CB /* Assets.xcassets */; };
 		442909C72BC7734A00A6F3CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 442909C52BC7734A00A6F3CB /* LaunchScreen.storyboard */; };
+		442909E12BC776FF00A6F3CB /* DashboardTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442909E02BC776FF00A6F3CB /* DashboardTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		442909C32BC7734A00A6F3CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		442909C62BC7734A00A6F3CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		442909C82BC7734A00A6F3CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		442909E02BC776FF00A6F3CB /* DashboardTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				442909BC2BC7734800A6F3CB /* SceneDelegate.swift */,
 				442909BE2BC7734800A6F3CB /* ViewController.swift */,
 				442909C02BC7734800A6F3CB /* Main.storyboard */,
+				442909E02BC776FF00A6F3CB /* DashboardTVC.swift */,
 				442909C32BC7734A00A6F3CB /* Assets.xcassets */,
 				442909C52BC7734A00A6F3CB /* LaunchScreen.storyboard */,
 				442909C82BC7734A00A6F3CB /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				442909BF2BC7734800A6F3CB /* ViewController.swift in Sources */,
 				442909BB2BC7734800A6F3CB /* AppDelegate.swift in Sources */,
+				442909E12BC776FF00A6F3CB /* DashboardTVC.swift in Sources */,
 				442909BD2BC7734800A6F3CB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
